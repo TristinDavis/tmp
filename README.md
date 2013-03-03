@@ -2,5 +2,3 @@
 ===
 
 temporary repository
-
-Временный репозиторий
